@@ -1,0 +1,5 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/dotnet:dev-9.0-noble",
+  "features": {
+  }
+}
